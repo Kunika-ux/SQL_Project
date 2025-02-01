@@ -3,6 +3,7 @@ The Pizza Sales Analysis project leverages SQL queries to extract valuable insig
 By working with relational database tables such as Orders, Order Details, Pizza Types, and Pizza Categories, the project demonstrates SQL capabilities like aggregations, joins, filtering, and grouping to generate meaningful reports.
 
 **Project Objectives & Key Insights**
+
 _Basic SQL Analysis:_
 1️⃣ Retrieve the total number of orders placed – Understand overall business demand.
 2️⃣ Calculate the total revenue generated from pizza sales – Measure financial performance.
